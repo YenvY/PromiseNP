@@ -1,0 +1,26 @@
+{
+  "name": "promisenp",
+  "version": "1.0.0",
+  "description": "Promise-Non-Primitive, simple implementation of Promise/A+ specification.",
+  "main": "src/PromiseNP.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenvy/PromiseNP.git"
+  },
+  "keywords": [
+    "promise",
+    "promises-aplus"
+  ],
+  "author": "YenvY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yenvy/PromiseNP/issues"
+  },
+  "homepage": "https://github.com/yenvy/PromiseNP#readme"
+}
